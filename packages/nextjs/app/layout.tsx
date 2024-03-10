@@ -11,7 +11,7 @@ const imageUrl = `${baseUrl}/thumbnail.jpg`;
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: "BuidlGuidl Batch 3",
+    default: "Batch 3",
     template: "%s | Scaffold-ETH 2",
   },
   description: "The Next Wave of Web3 Engineers",
